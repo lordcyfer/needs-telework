@@ -1,9 +1,9 @@
 # needs-telework
 
-For #VersusVirus hackathon I want to do a team of "geeks" and people who know how to write a documentation.
+For #VersusVirus hackathon I want to do a team of "geeks" and people who know how to write documentations.
 
 After more than 5 years of teleworking I know what is important to have and What is totally un-useful.
-The target of this project to simplify the teleworking for user and IT services
+The target of this project to simplify Teleworking for user and IT services.
 
 100% Google free</br>
 100% Facebook free</br>
@@ -15,13 +15,12 @@ The target of this project to simplify the teleworking for user and IT services
 - How to use our tools
 - How to install everything
 
-An easy to deploy teleworking services 100% Open Source.
-Being able to deploy a 100% big tech free.
-An auto-deploy of services like framasoft or colibris-outilslibres.
+An easy to deploy teleworking services 100% Open Source.</br>
+Being able to deploy a 100% big tech free.</br>
 
 # Choose the services that teleworkers needs
 
-We'll start by a discussion of what do we really need.
+We'll start by a discussion of what do we really need ?
 
 - Calendar
 - Shared office
@@ -32,29 +31,29 @@ We'll start by a discussion of what do we really need.
 - form
 - Poll
 
-## Education
+## For teacher
 
 - Students management
 
-# Technology
+# Technologies
 
 - Os Linux
 - containers dockers
-- web interfaces all new tools to de
-- lets encrypt
+- web interfaces (I am open to almost everything)
+- lets encrypt for SSL
 
-# What I already test
+# What I already tested
 
-- Owncloud
-- etherpad
-- ethercalc
-- mattemost
+- Owncloud + Collabora Online
+- Etherpad
+- Ethercalc
+- Mattemost
 - Collabora Online
 
 # To test
 
 - Kopano
-- polr
+- Polr
 
 # To do
 
@@ -63,6 +62,6 @@ We'll start by a discussion of what do we really need.
 - Almost auto-deployemnt on a VM
 - Monitoring
 - Scale of VMs and Bandwidth
-- The site
+- The Web Site
 - Documentations
 - Real github repository
