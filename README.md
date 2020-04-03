@@ -22,18 +22,18 @@ Being able to deploy a 100% big tech free.</br>
 
 We'll start by a discussion of what do we really need ?
 
-- Calendar
-- Shared office
-- Data cloud
-- link shorter
-- Shared mail box / ticketing system
-- Video conf
-- form
-- Poll
+- Calendar (owncloud)
+- Shared office (owncloud + collabora)
+- Data cloud (onwncloud)
+- link shorter TBD
+- Shared mail box / ticketing system (FreeScout)
+- Video conf (Jitsi)
+- form (TBD)
+- Poll (TBD)
 
 ## For teacher
 
-- Students management
+- Students management (Moodle)
 
 # Technologies
 
@@ -57,11 +57,11 @@ We'll start by a discussion of what do we really need ?
 
 # To do
 
-- Registration / Login / Password
+- *Registration / Login / Password*
 - Services setting choice
 - Almost auto-deployemnt on a VM
 - Monitoring
 - Scale of VMs and Bandwidth
-- The Web Site
-- Documentations
+- *The Web Site*
+- *Documentations*
 - Real github repository
