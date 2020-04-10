@@ -44,7 +44,7 @@ We'll start by a discussion of what do we really need ?
 
 # What I already tested
 
-- Owncloud + Collabora Online
+- Owncloud + Collabora Online or NextCloud + Collabora
 - Etherpad
 - Ethercalc
 - Mattemost
@@ -54,6 +54,16 @@ We'll start by a discussion of what do we really need ?
 
 - Kopano
 - Polr
+
+# setting
+
+- Office port 4480
+- Jitsi web 4580
+- Owncloud 4680
+- Mattemost 4780
+- Etherpad 4880
+- Ethercalc 4980
+- NextCloud 5080
 
 # To do
 
